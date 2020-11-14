@@ -1,4 +1,4 @@
-# Data_Postman-Api-Postgres
+# Data_Python-Api-Postgres
 
 Fetch real time data stock price data from an open source API and store data into database
 Database - Postgres
